@@ -15,3 +15,6 @@ We cover:
 ✅ **DevOps Interview Scenarios & Real-World Problems**  
 ✅ **PDFs & Study Docs** – Downloadable guides, cheat sheets & interview prep materials  
 
+![Devops Projects](https://github.com/user-attachments/assets/fdbe90ab-6ec2-4533-a865-f930822c21a5)
+
+
